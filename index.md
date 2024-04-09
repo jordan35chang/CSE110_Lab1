@@ -21,7 +21,7 @@ git push
 ```
 Here is a [link](https://students.ucsd.edu/) to UCSD TritonLink.
 
-Relative Link to [README.md](CSE110_Lab1/README.md)
+Relative Link to [README.md](/README.md)
 
 1. An
 2. ordered
