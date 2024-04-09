@@ -21,7 +21,7 @@ git push
 ```
 Here is a [link](https://students.ucsd.edu/) to UCSD TritonLink.
 
-Section link to [Picture]()
+Section link to [Picture](https://github.com/jordan35chang/CSE110_Lab1/blob/main/index.md#picture)
 
 Relative Link to [README.md](/README.md)
 
